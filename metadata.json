@@ -1,0 +1,7 @@
+{
+  "name": "श्री गजानन अमृत दूध डेअरी",
+  "description": "A clean, modern, mobile-friendly Marathi website for a local milk dairy business in Chikhli.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
